@@ -1,14 +1,29 @@
-# operador Equivalente 
-print('operador equivalente')
-print('5 == 4',5 == 4 )
-print('5 ==5', 5 == 5)
- 
- # OPERADOR  EXCLUSIVAMENTE MAYOR QUE 
-print('operador mayor que')
+# Operador EQUIVALENTE
+print()
+print('Operador EQUIVALENTE')
+print('5 == 4', 5 == 4)
+print('5 == 5', 5 == 5)
+
+# Operador exclusivamente MAYOR QUE
+print()
+print('Operador MAYOR QUE')
 print('5 > 4', 5 > 4)
 print('5 > 8', 5 > 8)
 
- #OPERADOR  EXCLUSIVAMENTE MENOR QUE
- print('operador menor que')
+# Operador exclusivamente MENOR QUE
+print()
+print('Operador MENOR QUE')
 print('5 < 4', 5 < 4)
-print('')
+print('5 < 8', 5 < 8)
+
+print()
+print('Operador MAYOR/MENOR o IGUAL QUE')
+print('5 >= 8', 5 >= 8)
+print('5 <= 8', 5 <= 8)
+print('8 <= 8', 8 <= 8)
+
+# Operador DISTINTO de
+print()
+print('Operador DISTINTO de')
+print('5 != 4', 5 != 4)
+print('3 != 3', 3 != 3)
